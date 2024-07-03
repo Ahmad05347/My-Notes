@@ -32,7 +32,7 @@ This notetaking application is designed to enhance your productivity by offering
 To get started with the notetaking application, download it from your preferred app store, sign up, and start creating notes instantly. Choose a subscription plan that suits your needs to unlock premium features.
 
 ## Contact
-For more information, support, or feedback, please contact us at [support@notetakingapp.com](mailto:support@notetakingapp.com).
+For more information, support, or feedback, please contact us.
 
 ---
 
